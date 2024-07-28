@@ -1,0 +1,2 @@
+console.log("Bilal");
+export {};
